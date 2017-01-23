@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 5,
+    "uniqCompNum": 10,
     "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -119,7 +119,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"PRES_BIOPIETRA.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"PRES_BIOPIETRA.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PRODUIT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_BIOPIETRA.html#header1-1\" aria-expanded=\"true\">DEFINITION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_BIOPIETRA.html#slider-2\" aria-expanded=\"true\">REALISATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#gallery3-3\" aria-expanded=\"true\">PRODUITS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"PRES_BIOPIETRA.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUIT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_BIOPIETRA.html#header1-1\" aria-expanded=\"true\">DEFINITION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_BIOPIETRA.html#slider-2\" aria-expanded=\"true\">REALISATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#gallery3-4\" aria-expanded=\"true\">PRODUITS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MARCHE</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"PRES_NEOSTONE.html#header2-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CONCURRENCE</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#header2-7\">VERNI PRENS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#header2-8\">PIETRA MILANO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#header2-9\">MATHIOS STONE</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"PRES_NEOSTONE.html#header2-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MIX MARKETING</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PRODUIT PRIX PROMOTION</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -288,79 +288,206 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/classic-roma-4-2000x1498-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/classic-roma-4-2000x1498.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-11-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-11-2000x1497.jpg",
+                "caption": "CLASSIC BARI",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/classic-blanc-beige-14-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-blanc-beige-14-2000x1497.jpg",
+                "caption": "CLASSIC BOURNE",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/classic-milano-3-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-milano-3-2000x1497.jpg",
+                "caption": "CLASSIC MILANO",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/classic-roma-4-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-roma-4-2000x1497.jpg",
+                "caption": "CLASSIC ROMA",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/classic-torino-3-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-torino-3-2000x1497.jpg",
+                "caption": "CLASSIC TORINO",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/foto-663-lg-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-663-lg-2000x1497.jpg",
+                "caption": "SARACENA",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/maniva-negro-copie-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maniva-negro-copie-2000x1498.jpg",
+                "caption": "MANILVA",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/medieval-german-1-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/medieval-german-1-2000x1497.jpg",
+                "caption": "MEDIEVAL GERMAN",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rockold-monaco-1-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rockold-monaco-1-2000x1497.jpg",
+                "caption": "ROCKOLD GERMAN",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sans-titre-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sans-titre-2000x1497.jpg",
+                "caption": "ROCKOLD BERRY",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/terracota-bristol-3-2000x1499-1-800x599.png",
+                "image": "@PROJECT_PATH@/assets/images/terracota-bristol-3-2000x1499-1.png",
+                "caption": "TERRACOTA BRISTOL",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/terracota-oxford-5-2000x1497-800x598.png",
+                "image": "@PROJECT_PATH@/assets/images/terracota-oxford-5-2000x1497.png",
+                "caption": "TERRACOTA OXFORD",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/trento2-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/trento2-2000x1497.jpg",
+                "caption": "MOSAIC MOZART",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paso-japones-medallon-800699-2-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/paso-japones-medallon-800699-2-2000x1497.jpg",
+                "caption": "PAS JAPONAIS",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/traviesa-lorcha-01-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/traviesa-lorcha-01-2000x1497.jpg",
+                "caption": "PAS ANGLAIS",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/baldosa-blanca-copie-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/baldosa-blanca-copie-2000x1498.jpg",
+                "caption": "PIZARRA BEIGE",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/baldosa-gris-copie-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/baldosa-gris-copie-2000x1498.jpg",
+                "caption": "ROCKOLD BERRY",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/piscina-copie-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/piscina-copie-2000x1498.jpg",
+                "caption": "MARGELLES",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/grainmargellearpege-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/grainmargellearpege-2000x1497.jpg",
+                "caption": "MARGELLES",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/margelle-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/margelle-2000x1497.jpg",
+                "caption": "MARGELLES",
+                "active": true
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#323232",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": true
@@ -368,6 +495,219 @@
           "_anchor": "gallery3-4",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-6",
+          "_params": {
+            "imageSize": "42",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/classic-roma-5-2000x2669.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/lnouerqh-istock-000009205566small-1400x930.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "ANALYSE DE CONCURRENCE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-7",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lnouerqh-istock-000009205566small-2000x1329-1.png",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sans-titkjhbre-1400x663.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "CONCURRENT N1: VERNIPRENS",
+          "text": "VERNIPRENS est une société avec plus de 30 d’expérience dans la fabrication de produits en ciment pour la construction et décoration d’extérieurs.<br>DISTRIBUTEUR A CASABLANCA:  SOREPAV<br>DISTRIBUTEUR A FES: FEZ ROCK<br>PRIX DE VENTE m² TTC: 750 DH<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.verniprens.com\" data-toolbar=\"-mbrBtnMove\">SITE WEB</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-8",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/concurrence-deloyale-2000x1328.png",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-pietr-1400x676.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "CONCURRENT N2: PIETRA MILANO",
+          "text": "PIETRA MILANO est une société avec 3 ans d’expérience dans la fabrication de produits en ciment pour la construction et décoration d’extérieurs et intérieur<br><br><br><br>Showrooms: Tanger<br>Showroom: Tetouan<br>Points de vente:&nbsp;<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">MARMOLES KARIM:  ROUTE AZLA   TETOUAN Tel: 0539997838</span><br>SANITAIRE MAR: Avenue Sebta, Tétouan Tel: +212 5399-99518<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://web.facebook.com/pietramilanoSARL/?fref=ts\" data-toolbar=\"-mbrBtnMove\">FACEBOOK</a>",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-9",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/analyse-concurrence-business-plan-2000x749.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sans-titrkjllkjhjkle-1400x661.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "CONCURRENT N3: MATHIOSSTONE",
+          "text": "Showroom a Tetouan<br>DISTRIBUTEUR A CASABLANCA  SOREPAV<br>km.14 route Moulay Thami - 27223 &nbsp;Dar Bouazza<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">0522&nbsp;587&nbsp;528</span><br>EXPOSANT DANS LA FOIRE SIB DE CASABLANCA DEPUIS 2012<br>2014<br>2016",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://mathios.com/\" data-toolbar=\"-mbrBtnMove\">SITE WEB</a>"
         }
       ]
     }
