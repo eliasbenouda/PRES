@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 10,
+    "uniqCompNum": 13,
     "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -119,7 +119,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"PRES_BIOPIETRA.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"PRES_BIOPIETRA.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUIT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_BIOPIETRA.html#header1-1\" aria-expanded=\"true\">DEFINITION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_BIOPIETRA.html#slider-2\" aria-expanded=\"true\">REALISATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#gallery3-4\" aria-expanded=\"true\">PRODUITS</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">MARCHE</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"PRES_NEOSTONE.html#header2-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CONCURRENCE</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#header2-7\">VERNI PRENS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#header2-8\">PIETRA MILANO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#header2-9\">MATHIOS STONE</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"PRES_NEOSTONE.html#header2-6\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MIX MARKETING</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PRODUIT PRIX PROMOTION</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"PRES_BIOPIETRA.html#header1-1\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PRODUIT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_BIOPIETRA.html#header1-1\" aria-expanded=\"false\">DEFINITION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_BIOPIETRA.html#slider-2\" aria-expanded=\"false\">REALISATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#gallery3-4\" aria-expanded=\"false\">PRODUITS</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">MARCHE</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"PRES_NEOSTONE.html#header2-6\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CONCURRENCE</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#header2-7\">VERNI PRENS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#header2-8\">PIETRA MILANO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#header2-9\">MATHIOS STONE</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"PRES_NEOSTONE.html#features1-c\" aria-expanded=\"true\">MIX MARKETING</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FINANCEMENT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -127,7 +127,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/1-3-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -162,7 +162,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 ELIAS BEN OUDA<br><br>"
         },
         {
           "_tags": [
@@ -598,7 +598,12 @@
           },
           "title": "CONCURRENT N1: VERNIPRENS",
           "text": "VERNIPRENS est une société avec plus de 30 d’expérience dans la fabrication de produits en ciment pour la construction et décoration d’extérieurs.<br>DISTRIBUTEUR A CASABLANCA:  SOREPAV<br>DISTRIBUTEUR A FES: FEZ ROCK<br>PRIX DE VENTE m² TTC: 750 DH<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.verniprens.com\" data-toolbar=\"-mbrBtnMove\">SITE WEB</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.verniprens.com\" data-toolbar=\"-mbrBtnMove\">SITE WEB</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_tags": [
@@ -708,6 +713,129 @@
           "title": "CONCURRENT N3: MATHIOSSTONE",
           "text": "Showroom a Tetouan<br>DISTRIBUTEUR A CASABLANCA  SOREPAV<br>km.14 route Moulay Thami - 27223 &nbsp;Dar Bouazza<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">0522&nbsp;587&nbsp;528</span><br>EXPOSANT DANS LA FOIRE SIB DE CASABLANCA DEPUIS 2012<br>2014<br>2016",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://mathios.com/\" data-toolbar=\"-mbrBtnMove\">SITE WEB</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-c",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/com-2-600x446.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "PRODUIT – PROMOTION",
+          "subtitle1": "",
+          "caption1": "NOUS SOMMES LES PREMIERS FABRICANTS DE LA  PIERRE ARTIFICIEL AU MAROC<br><br><span style=\"font-size: 1rem; line-height: 1.5;\">LA COMMUNICATION EST LE CLEF DU SUCCES DE PROJET</span><br>       RESEAUX SOCIALES- FLYERS- CATALOGUE- POINTS DE VENTE-<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/promo.gif",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "PRIX",
+          "subtitle2": "",
+          "caption2": "PRIX ACCESSIBLE A TOUS LES CONSOMMATEURS<br>ENTRE 180 DH ET 250 DH LE M&nbsp;<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/biopietra-maroc-1-600x581.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "DISTRIBUTION",
+          "subtitle3": "",
+          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">LE RESEAU DE DISTRIBUTION</span><br><br>IDENTIFIER LES DISTRIBUTEURS POTENTIEL INSTALLES SUR LE MARCHE<br><br>PROXIMITE GEOGRAPHIQUE;  AUGMENTER LE RESEAU EN DEHORS DE CASABLANCA&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2-600x337-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "L'EQUIPE",
+          "subtitle4": "",
+          "caption4": "L’esprit d’équipe, l’innovation, la responsabilité et l’engagement sont les valeurs que partagent tous mes collaborateurs<br><br>NOTRE METIER: <br>PLANIFICATION DES OPERATEURS\u000bL’ APPROVISIONNEMENT<br>LA FABRICATION<br>LA COMMANDE ET LA LIVRAISON<br><br><br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
         }
       ]
     }

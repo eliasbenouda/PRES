@@ -469,6 +469,12 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header2-7 .mbr-section-title {
+  font-size: 36px;
+}
 #header2-8 .mbr-section-text {
   text-align: left;
+}
+#features1-c .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
 }
