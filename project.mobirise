@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 4,
+    "uniqCompNum": 6,
     "versionPublish": "3.10.8"
   },
   "pages": {
@@ -138,6 +138,59 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2015 Virtual Services Sarl. <a href=\"www.virtualservices.ma\">VS</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/admin/AppData/Local/Mobirise.com/Mobirise/projectData/photo-3_3.jpg",
+            "bgColor": "#0275d8",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-primary",
+            "showButtons": false,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "bg-danger"
+          },
+          "title1": "PACK <br>MASTER",
+          "currency1": "",
+          "price1": "9.400,00 Dh H.T.",
+          "period1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>3 Photos 360° de votre etablissement&nbsp;</b></li><li class=\"list-group-item\"><b>10 Photos</b></li><li class=\"list-group-item\"><b>Vidéo Corporatif (2 mins) <a href=\"https://www.youtube.com/watch?v=ntWx7AoGqZo&amp;t=68s\" class=\"text-primary\">Exemple</a></b></li><li class=\"list-group-item\"><b>Publicité Facebook Pour votre Vidéo </b>(100 000 impressions)</li><li class=\"list-group-item\"><b>Ciblage par mots clés</b></li><li class=\"list-group-item\"><b>Ciblage par région</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title2": "PACK<br> VISITE VIRTUELLE 360",
+          "currency2": "",
+          "price2": "4.500,00 Dh H.T.",
+          "period2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>5 Photos 360° de votre etablissement&nbsp;</b></li><li class=\"list-group-item\"><b>Montage sur site internet <a href=\"http://virtualservices.ma/360/bouanan/\" class=\"text-primary\">Exemple</a></b></li><li class=\"list-group-item\"><b>Nom domaine .com + hebergement &nbsp;serveur &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><span style=\"font-size: 1rem; line-height: 1.5;\">gratuit 1 an</span></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title3": "PACK<br>PROMOTEUR IMMOBILIER",
+          "currency3": "",
+          "price3": "16.500,00 Dh H.T.",
+          "period3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><p><b style=\"font-size: 1rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1rem; line-height: 1.5;\">2 PACK VISITE VIRTUELLE</b></p><li class=\"list-group-item\"><b>Montage sur site internet Exemple</b></li><li class=\"list-group-item\"><b>Nom domaine .com + hebergement  serveur <br>&nbsp;</b>gratuit 1 an</li><li class=\"list-group-item\"><b>Boost de 5 Photos 360</b></li><li class=\"list-group-item\"><b>Boost 5 Publications</b></li><li class=\"list-group-item\"><b>10 Photos</b></li><li class=\"list-group-item\"><b>Video Coorporatif &nbsp;<br><a href=\"https://www.youtube.com/watch?v=S-jmdvClSpY\" class=\"text-primary\">Exemple</a></b></li><li class=\"list-group-item\"><b>1.000.000 impressions sur facebook</b></li><li class=\"list-group-item\"><b>Ciblage par secteur d'activité</b></li><li class=\"list-group-item\"><b>Ciblage par mots clés</b></li><li class=\"list-group-item\"><b>Ciblage par région</b></li><p></p></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title4": "promotion<div>PACK GOLD</div>",
+          "currency4": "",
+          "price4": "13.500,00 Dh H.T.",
+          "period4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">5 Photos 360° </b><b style=\"font-size: 1rem; line-height: 1.5;\">de votre etablissement&nbsp;</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">10 photos</b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Vidéo Corporatif (2 mins) <a href=\"https://www.youtube.com/watch?v=RgmjEP3ewEU\" class=\"text-primary\">Exemple</a></b></li><li class=\"list-group-item\"><b style=\"font-size: 1rem; line-height: 1.5;\">Site Web One page  (Acceuil/Qui sommes nous/ Produits ou Services ou galerie photos/Contact) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"al-boustane.ma\" class=\"text-primary\">Exemple</a></b></li><li class=\"list-group-item\"><b>Community Manager &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;Gratuit 1 Mois</span></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>"
         }
       ]
     }
